@@ -1,6 +1,6 @@
 # How to Build a Discord Bot with Node.js
 
-Here is the source code for the tutorial! 
+Here is the source code! 
 
 We will set up a Discord Bot using Node.js and npm (node package manager):
 
